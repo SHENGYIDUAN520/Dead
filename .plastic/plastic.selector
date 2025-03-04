@@ -1,0 +1,4 @@
+repository "Dead@tj_mydemoyi@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
